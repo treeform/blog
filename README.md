@@ -1,4 +1,12 @@
 
+`nimble install blog`
+
+![Github Actions](https://github.com/treeform/blog/workflows/Github%20Actions/badge.svg)
+
+[API reference](https://nimdocs.com/treeform/blog)
+
+This library has no dependencies other than the Nim standard library.
+
 install nim:
 ```sh
 curl https://nim-lang.org/choosenim/init.sh -sSf | sh
